@@ -81,7 +81,7 @@ const palavras = [
   },
   {
     palavra: 'wir sind (nicht) verheiratet',
-    traducao: 'nós somos casados',
+    traducao: 'nós não somos casados',
     pronunciacao: 'vír zint (nisht) fe-rrairá-tet',
   },
   {
@@ -121,12 +121,12 @@ const palavras = [
   },
   {
     palavra: 'das Kind - die Kinder',
-    traducao: 'criança',
+    traducao: 'a criança - as crianças',
     pronunciacao: 'das kint - di kinder',
   },
   {
     palavra: 'das Ei - die Eier',
-    traducao: 'ovo',
+    traducao: 'o ovo - os ovos',
     pronunciacao: 'das ai - di aier',
   },
   {
